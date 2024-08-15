@@ -6,6 +6,11 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&theme=light&perline=5" />
+  </a>
+</p>
  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&theme=light&perline=5)](https://skillicons.dev)
 
 
