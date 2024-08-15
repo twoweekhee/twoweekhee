@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,py" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,gradle,react&perline=3" />
+    <img src="https://skillicons.dev/icons?i=spring,gradle,react" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,aws,docker,nginx,redis,kafka&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql,aws,docker,nginx,redis,kafka" />
   </a>
 </p>
 
