@@ -6,9 +6,8 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
-<div align="center">
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&perline=5)](https://skillicons.dev)
-</div>
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&theme=light&perline=5)](https://skillicons.dev)
+
 
 <br>
 
