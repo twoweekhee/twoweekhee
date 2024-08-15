@@ -8,35 +8,45 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&perline=3" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-   [![My Skills](https://skillicons.dev/icons?i=spring,gradle,react&perline=5)](https://skillicons.dev)
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,gradle,react&perline=3" />
+  </a>
 </p>
 
 <br>
 
-<div align="center">
-   [![My Skills](https://skillicons.dev/icons?i=mysql,aws,docker,nginx,redis,kafka&perline=5)](https://skillicons.dev)
-</div>
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,aws,docker,nginx,redis,kafka&perline=3" />
+  </a>
+</p>
 
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-     [![My Skills](https://skillicons.dev/icons?i=django&perline=5)](https://skillicons.dev)
-</div>
+
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django&perline=3" />
+  </a>
+</p>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-    [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,github,discord,notion,figma&perline=5)](https://skillicons.dev)
-</div>
+
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,github,discord,notion,figma&perline=3" />
+  </a>
+</p>
 
 <br>
 
