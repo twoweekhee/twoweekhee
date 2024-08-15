@@ -8,17 +8,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&theme=light&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&theme=light&perline=3" />
   </a>
 </p>
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,py&theme=light&perline=5)](https://skillicons.dev)
-
 
 <br>
 
-<div align="center">
+<p align="center">
    [![My Skills](https://skillicons.dev/icons?i=spring,gradle,react&perline=5)](https://skillicons.dev)
-</div>
+</p>
 
 <br>
 
